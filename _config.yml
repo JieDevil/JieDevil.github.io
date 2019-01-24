@@ -60,12 +60,12 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
+    href: /sql.html
+    label: SQL
 
   -
-    href: /spring-cloud.html
-    label: Spring-Cloud
+    href: /kingdee.html
+    label: 金蝶
 
   -
     href: /archives.html
@@ -88,16 +88,16 @@ labels:
     name: 资源
 
   -
-    href: /life.html
-    name: 故事
+    href: /k3.html
+    name: 金蝶 K3 系列
 
   -
-    href: /arch.html
-    name: 架构
+    href: /cloud.html
+    name: 金蝶Cloud·星空系列
     
   -
-    href: /jvm.html
-    name: Jvm
+    href: /webaddress.html
+    name: 一些网址
 
   -
     href: /fastdfs.html
